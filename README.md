@@ -1,2 +1,2 @@
 # C
-Learning C in kopo
+C언어 강의 정리
